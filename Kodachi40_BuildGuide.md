@@ -11,4 +11,4 @@
     Cherry Stabilizer 2U                                                        2個
     Case                                                                      1台分
     Screw & Nuts 3M                                                             9本
-    LED Strip (Optional)
+    LED Strip (Optional)                                                        1枚
