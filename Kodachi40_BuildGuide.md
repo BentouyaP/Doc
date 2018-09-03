@@ -2,7 +2,7 @@
 
 # パーツリスト
 
-    Kodachi40 PCB                                                               1個
+    Kodachi40 PCB                                                               1個     
         https://github.com/BentouyaP/Gerber/tree/master/Kodachi40
     Mtmega32U4 Promicro 5V/16MHz                                                1個
     1N4148 スイッチングダイオード, SOD-123 package or DO-35 (0.3" pitch)         44個
