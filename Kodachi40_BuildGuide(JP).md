@@ -23,7 +23,7 @@
 
 2.PCBにPromicroピンをはんだづけ
 
-3.PCBにStabilizerを2つ取り付け
+3.PCB/プレートにStabilizerを2つ取り付け
 
 4.プレートにCherryMXスイッチ取り付け
 
